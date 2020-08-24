@@ -8,7 +8,7 @@ You may directly open the executable if you would like to start a new game witho
 
 If you would like to either load a game or have "testing mode" on. Then you must run the executable from the terminal with the command line the correct command line arguments. <br>
 Instructions for the command line arguments you must enter to load a game and/or have testing mode on are:<br>
-To start a new game with "testing mode" off: <executable> <br>
+To start a new game with "testing mode" off: \>executable\> <br>
 To load a game: <executable> -load <filename> <br>
 To play a new game with testing mode on: <executable> -testing <br>
 To load a game with testing mode on: <executable> -load <filename> -testing
