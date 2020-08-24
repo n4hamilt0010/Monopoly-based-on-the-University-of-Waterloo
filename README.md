@@ -6,6 +6,7 @@ The gameplay is nearly identical to that of Monopoly but the properties, and som
 If you would like to try playing the game, you may download the appropriate executable. 
 You may directly open the executable if you would like to start a new game without "testing mode" on. 
 
+Explanation of loading games and testing mode (YOU DO NOT NEED TO READ THIS SECTION IF YOU ARE UNINTERESTED IN USING THESE FEATURES): <br>
 If you would like to either load a game or have "testing mode" on. Then you must run the executable from the terminal with the command line the correct command line arguments. <br>
 Instructions for the command line arguments you must enter to load a game and/or have testing mode on are:<br>
 To start a new game with "testing mode" off: \<executable\> <br>
