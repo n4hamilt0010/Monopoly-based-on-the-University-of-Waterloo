@@ -4,7 +4,7 @@ This is a game of Monopoly based on the University of Waterloo, called watopoly.
 The gameplay is nearly identical to that of Monopoly but the properties, and some other additional features are based on the university of Waterloo instead of the regular board. This game will come complete with the ability to save a game to a file and load a game from a file. As well as a "testing mode" which allows you to control the number of the dice you roll. 
 
 If you would like to try playing the game, you may download the appropriate executable. 
-You may directly open the executable if you would like to start a new game without "testing mode" on. <br><br>
+You may directly open the executable if you would like to start a new game without "testing mode" on. <br><br><br>
 
 Explanation of loading games and testing mode (YOU DO NOT NEED TO READ THIS SECTION IF YOU ARE UNINTERESTED IN USING THESE FEATURES): <br>
 If you would like to either load a game or have "testing mode" on. Then you must run the executable from the terminal with the command line the correct command line arguments. <br>
