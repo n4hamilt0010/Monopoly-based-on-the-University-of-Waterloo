@@ -13,5 +13,5 @@ To load a game: <executable> -load <filename>
 To play a new game with testing mode on: <executable> -testing
 To load a game with testing mode on: <executable> -load <filename> -testing
 
-The files which can be read to load a game have a specified format. To ensure that your file is valid, you may either download some of the saved games we have created for you in the "savedGames" directory of this reposiotry, or you may use a file to which you have "saved" the game to using the save command during gameplay.
+The files which can be read to load a game have a specified format. To ensure that your file is valid, you may either download some of the saved games we have created for you in the "savedGames" directory of this reposiotry, or you may use a file to which you have "saved" the game to, using the save command during gameplay.
 
