@@ -8,10 +8,10 @@ You may directly open the executable if you would like to start a new game witho
 
 If you would like to either load a game or have "testing mode" on. Then you must run the executable from the terminal with the command line the correct command line arguments. <br>
 Instructions for the command line arguments you must enter to load a game and/or have testing mode on are:<br>
-To start a new game with "testing mode" off: \>executable\> <br>
-To load a game: <executable> -load <filename> <br>
-To play a new game with testing mode on: <executable> -testing <br>
-To load a game with testing mode on: <executable> -load <filename> -testing
+To start a new game with "testing mode" off: \<executable\> <br>
+To load a game: <executable> -load \<filename\> <br>
+To play a new game with testing mode on: \<executable\> -testing <br>
+To load a game with testing mode on: <executable> -load \<filename\> -testing
 
 The files which can be read to load a game have a specified format. To ensure that your file is valid, you may either download some of the saved games we have created for you in the "savedGames" directory of this reposiotry, or you may use a file to which you have "saved" the game to, using the save command during gameplay.
 
