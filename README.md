@@ -13,5 +13,5 @@ To load a game with "testing mode" off: <executable> -load \<filename\> <br>
 To play a new game with testing mode on: \<executable\> -testing <br>
 To load a game with testing mode on: <executable> -load \<filename\> -testing
 
-The files which can be read to load a game have a specified format. To ensure that your file is valid, you may either download some of the saved games we have created for you in the "savedGames" directory of this reposiotry, or you may use a file to which you have "saved" the game to, using the save command during gameplay.
-
+The files which can be read to load a game have a specified format. To ensure that your file is valid, you may either download some of the saved games we have created for you in the "savedGames" directory of this reposiotry, or you may use a file to which you have "saved" the game to, using the save command during gameplay. <br>
+The savedGames folder has 2 saved games, both of which are further along in gameplay (this allows you to try features that are only available later in gameplay, without having to play an entire game). The one called two.txt is a 2 player game, and the one called six.txt is a 6 player game.
